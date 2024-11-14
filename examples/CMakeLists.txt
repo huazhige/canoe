@@ -46,6 +46,10 @@ if (${TASK} STREQUAL "rtdry" OR
   add_subdirectory(2024-XZhang-cloud-rt)
 endif()
 
+if (${TASK} STREQUAL "bd_dry")
+  add_subdirectory(2025-HGe-bd-rt)
+endif()
+
 if (${TASK} STREQUAL "minichem")
   add_subdirectory(2024-XZhang-minichem)
 endif()
@@ -60,4 +64,5 @@ endif()
 
 if (${TASK} STREQUAL "amars")
   add_subdirectory(2024-CMetz-amars)
+
 endif()

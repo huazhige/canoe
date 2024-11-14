@@ -1,0 +1,46 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "/Users/huazhige/Documents/Research-Projects/snap/canoe/cmake/_deps/application-subbuild/CMakeFiles/application-populate"
+		},
+		{
+			"file" : "/Users/huazhige/Documents/Research-Projects/snap/canoe/cmake/_deps/application-subbuild/CMakeFiles/application-populate.rule"
+		},
+		{
+			"file" : "/Users/huazhige/Documents/Research-Projects/snap/canoe/cmake/_deps/application-subbuild/CMakeFiles/application-populate-complete.rule"
+		},
+		{
+			"file" : "/Users/huazhige/Documents/Research-Projects/snap/canoe/cmake/_deps/application-subbuild/application-populate-prefix/src/application-populate-stamp/application-populate-build.rule"
+		},
+		{
+			"file" : "/Users/huazhige/Documents/Research-Projects/snap/canoe/cmake/_deps/application-subbuild/application-populate-prefix/src/application-populate-stamp/application-populate-configure.rule"
+		},
+		{
+			"file" : "/Users/huazhige/Documents/Research-Projects/snap/canoe/cmake/_deps/application-subbuild/application-populate-prefix/src/application-populate-stamp/application-populate-download.rule"
+		},
+		{
+			"file" : "/Users/huazhige/Documents/Research-Projects/snap/canoe/cmake/_deps/application-subbuild/application-populate-prefix/src/application-populate-stamp/application-populate-install.rule"
+		},
+		{
+			"file" : "/Users/huazhige/Documents/Research-Projects/snap/canoe/cmake/_deps/application-subbuild/application-populate-prefix/src/application-populate-stamp/application-populate-mkdir.rule"
+		},
+		{
+			"file" : "/Users/huazhige/Documents/Research-Projects/snap/canoe/cmake/_deps/application-subbuild/application-populate-prefix/src/application-populate-stamp/application-populate-patch.rule"
+		},
+		{
+			"file" : "/Users/huazhige/Documents/Research-Projects/snap/canoe/cmake/_deps/application-subbuild/application-populate-prefix/src/application-populate-stamp/application-populate-test.rule"
+		},
+		{
+			"file" : "/Users/huazhige/Documents/Research-Projects/snap/canoe/cmake/_deps/application-subbuild/application-populate-prefix/src/application-populate-stamp/application-populate-update.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"application-populate"
+		],
+		"name" : "application-populate"
+	}
+}

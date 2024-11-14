@@ -18,29 +18,30 @@ dt         = 8.64E6      # time increment between outputs
 <output2>
 file_type  = pnetcdf      # Binary data dump
 variable   = prim         # variables to be output
-dt         = 8.64E6      # time increment between outputs
+dt         = 8.64E4      # time increment between outputs
 
 <output3>
 file_type  = pnetcdf
 variable   = uov
-dt         = 8.64E6      # time increment between outputs
+dt         = 8.64E4      # time increment between outputs
 
 <output4>
 file_type  = pnetcdf
 variable   = rad
-dt         = 8.64E6      # time increment between outputs
+dt         = 8.64E4      # time increment between outputs
 
 #<output5>
 #file_type  = dbg
 #dt         = 1
 
 <time>
-cfl_number = 0.9          # The Courant, Friedrichs, & Lewy (CFL) Number
+cfl_number = 0.5          # The Courant, Friedrichs, & Lewy (CFL) Number
 nlim       = -1           # cycle limit
-tlim       = 1.0368E11     # time limit
+tlim       = 1.0368E8     # time limit
 xorder     = 5            # horizontal reconstruction order
 integrator = rk3          # integration method
 shock_capture = true
+ncycle_out = 100
 
 <mesh>
 nx1        = 64          # Number of zones in X1-direction
@@ -49,22 +50,22 @@ x1max      = 5.E7       # maximum value of X1
 ix1_bc     = reflecting   # inner-X1 boundary flag
 ox1_bc     = reflecting   # outer-X1 boundary flag
 
-nx2         = 36         # Number of zones in X2-direction
+nx2         = 36          # Number of zones in X2-direction
 x2min       = 0.          # minimum value of X2
-x2max       = 5.E7       # maximum value of X2
-ix2_bc      = reflecting  # Inner-X2 boundary condition flag
-ox2_bc      = reflecting  # Outer-X2 boundary condition flag
+x2max       = 5.E7        # maximum value of X2
+ix2_bc      = periodic    # Inner-X2 boundary condition flag
+ox2_bc      = periodic    # Outer-X2 boundary condition flag
 
-nx3         = 1           # Number of zones in X3-direction
-x3min       = -0.5        # minimum value of X3
-x3max       = 0.5         # maximum value of X3
+nx3         = 36          # Number of zones in X3-direction
+x3min       = 0.          # minimum value of X3
+x3max       = 5.E7        # maximum value of X3
 ix3_bc      = periodic    # Inner-X3 boundary condition flag
 ox3_bc      = periodic    # Outer-X3 boundary condition flag
 
 <meshblock>
 nx1        = 64
-nx2        = 6
-nx3        = 1
+nx2        = 18
+nx3        = 18
 
 <hydro>
 grav_acc1   = -1.6667

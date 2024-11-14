@@ -1,0 +1,46 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "/Users/huazhige/Documents/Research-Projects/snap/canoe/cmake/_deps/disort-subbuild/CMakeFiles/disort-populate"
+		},
+		{
+			"file" : "/Users/huazhige/Documents/Research-Projects/snap/canoe/cmake/_deps/disort-subbuild/CMakeFiles/disort-populate.rule"
+		},
+		{
+			"file" : "/Users/huazhige/Documents/Research-Projects/snap/canoe/cmake/_deps/disort-subbuild/CMakeFiles/disort-populate-complete.rule"
+		},
+		{
+			"file" : "/Users/huazhige/Documents/Research-Projects/snap/canoe/cmake/_deps/disort-subbuild/disort-populate-prefix/src/disort-populate-stamp/disort-populate-build.rule"
+		},
+		{
+			"file" : "/Users/huazhige/Documents/Research-Projects/snap/canoe/cmake/_deps/disort-subbuild/disort-populate-prefix/src/disort-populate-stamp/disort-populate-configure.rule"
+		},
+		{
+			"file" : "/Users/huazhige/Documents/Research-Projects/snap/canoe/cmake/_deps/disort-subbuild/disort-populate-prefix/src/disort-populate-stamp/disort-populate-download.rule"
+		},
+		{
+			"file" : "/Users/huazhige/Documents/Research-Projects/snap/canoe/cmake/_deps/disort-subbuild/disort-populate-prefix/src/disort-populate-stamp/disort-populate-install.rule"
+		},
+		{
+			"file" : "/Users/huazhige/Documents/Research-Projects/snap/canoe/cmake/_deps/disort-subbuild/disort-populate-prefix/src/disort-populate-stamp/disort-populate-mkdir.rule"
+		},
+		{
+			"file" : "/Users/huazhige/Documents/Research-Projects/snap/canoe/cmake/_deps/disort-subbuild/disort-populate-prefix/src/disort-populate-stamp/disort-populate-patch.rule"
+		},
+		{
+			"file" : "/Users/huazhige/Documents/Research-Projects/snap/canoe/cmake/_deps/disort-subbuild/disort-populate-prefix/src/disort-populate-stamp/disort-populate-test.rule"
+		},
+		{
+			"file" : "/Users/huazhige/Documents/Research-Projects/snap/canoe/cmake/_deps/disort-subbuild/disort-populate-prefix/src/disort-populate-stamp/disort-populate-update.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"disort-populate"
+		],
+		"name" : "disort-populate"
+	}
+}

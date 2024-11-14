@@ -103,7 +103,8 @@ using RadiationPtr = std::shared_ptr<Radiation>;
 namespace RadiationFlags {
 
 const uint64_t None = 0LL;
-const uint64_t TimeDependent = 1LL << 0;
+//const uint64_t TimeDependent = 1LL << 0;
+const uint64_t TimeDependent = 0LL;
 const uint64_t BroadBand = 1LL << 1;
 const uint64_t ThermalEmission = 1LL << 2;
 const uint64_t StellarBeam = 1LL << 3;

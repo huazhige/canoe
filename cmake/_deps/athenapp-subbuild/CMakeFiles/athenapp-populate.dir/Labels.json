@@ -1,0 +1,46 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "/Users/huazhige/Documents/Research-Projects/snap/canoe/cmake/_deps/athenapp-subbuild/CMakeFiles/athenapp-populate"
+		},
+		{
+			"file" : "/Users/huazhige/Documents/Research-Projects/snap/canoe/cmake/_deps/athenapp-subbuild/CMakeFiles/athenapp-populate.rule"
+		},
+		{
+			"file" : "/Users/huazhige/Documents/Research-Projects/snap/canoe/cmake/_deps/athenapp-subbuild/CMakeFiles/athenapp-populate-complete.rule"
+		},
+		{
+			"file" : "/Users/huazhige/Documents/Research-Projects/snap/canoe/cmake/_deps/athenapp-subbuild/athenapp-populate-prefix/src/athenapp-populate-stamp/athenapp-populate-build.rule"
+		},
+		{
+			"file" : "/Users/huazhige/Documents/Research-Projects/snap/canoe/cmake/_deps/athenapp-subbuild/athenapp-populate-prefix/src/athenapp-populate-stamp/athenapp-populate-configure.rule"
+		},
+		{
+			"file" : "/Users/huazhige/Documents/Research-Projects/snap/canoe/cmake/_deps/athenapp-subbuild/athenapp-populate-prefix/src/athenapp-populate-stamp/athenapp-populate-download.rule"
+		},
+		{
+			"file" : "/Users/huazhige/Documents/Research-Projects/snap/canoe/cmake/_deps/athenapp-subbuild/athenapp-populate-prefix/src/athenapp-populate-stamp/athenapp-populate-install.rule"
+		},
+		{
+			"file" : "/Users/huazhige/Documents/Research-Projects/snap/canoe/cmake/_deps/athenapp-subbuild/athenapp-populate-prefix/src/athenapp-populate-stamp/athenapp-populate-mkdir.rule"
+		},
+		{
+			"file" : "/Users/huazhige/Documents/Research-Projects/snap/canoe/cmake/_deps/athenapp-subbuild/athenapp-populate-prefix/src/athenapp-populate-stamp/athenapp-populate-patch.rule"
+		},
+		{
+			"file" : "/Users/huazhige/Documents/Research-Projects/snap/canoe/cmake/_deps/athenapp-subbuild/athenapp-populate-prefix/src/athenapp-populate-stamp/athenapp-populate-test.rule"
+		},
+		{
+			"file" : "/Users/huazhige/Documents/Research-Projects/snap/canoe/cmake/_deps/athenapp-subbuild/athenapp-populate-prefix/src/athenapp-populate-stamp/athenapp-populate-update.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"athenapp-populate"
+		],
+		"name" : "athenapp-populate"
+	}
+}
